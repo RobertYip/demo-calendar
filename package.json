@@ -1,7 +1,6 @@
 {
   "name": "demo-calendar",
   "version": "0.1.0",
-  "main": "src/index.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -14,7 +13,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
